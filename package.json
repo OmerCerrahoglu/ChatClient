@@ -1,0 +1,16 @@
+{
+  "name": "chat_client",
+  "version": "1.0.0",
+  "description": "A simple terminal chat client and server",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.5.0",
+    "ws": "^8.5.0"
+  }
+}
